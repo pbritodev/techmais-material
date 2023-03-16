@@ -20,7 +20,7 @@
     
 ## PQ?
   -ERP antigo tinha muitas falhas e não estava suprindo as necessidades operacionais da empresa.
-	-Não era orientado a chamados. Dificuldade em guardar informações dos chamados, que acabam se perdendo com o tempo. Não trazem nenhuma informação relevante 		para os analistas. Funcionários se reúnem fisicamente ao invés de verem os dados no sistema, por ser ineficiente. 
+	-Não era orientado a chamados. Dificuldade em guardar informações dos chamados, que acabavam se perdendo com o tempo. Não trazem nenhuma informação relevante 		para os analistas. Funcionários se reúnem fisicamente ao invés de verem os dados no sistema, por ser ineficiente. 
  ## Quanto?
   	-X
     
