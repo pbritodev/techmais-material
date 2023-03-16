@@ -1,12 +1,12 @@
 Qual é o objetivo principal do software?
-	-Projeto de ERP -> Enterprise Resource Planning. Gestão de processos. Planejar os recursos da empresa, anotar e manter as informações disponíveis para todas as pessoas com acesso. ERP WEB, que possa ter alguns departamentos como comercial, TI, dashboards, chamados, coisas relevantes para a operação da empresa. Tecnologia, comercial e operação.
+	-Projeto de ERP -> Enterprise Resource Planning. Gestão de processos. Planejar os recursos da empresa, anotar e manter as informações disponíveis para todas as pessoas com acesso. ERP WEB, que possa ter alguns departamentos como Tecnologia, comercial e operações. Ele contará com as funcionalidades: dashboards, chamados e outras coisas relevantes para a operação da empresa. 
 	
-	-Eixo da empresa -> Soluções tecnológicas para fábricas como de produtos químicos, bebidas, segmento de saneamento, transporte ferroviário. Carro chefe ? Monitoramento através de internet das coisas (IOT) para auxiliar na tomada de decisão dos gestores. Sensores de diversos tipos que podem monitorar vibração, temperatura, etc
+	-Eixo da empresa -> Soluções tecnológicas para o setor industrial, como fábricas de produtos químicos, bebidas, segmento de saneamento, transporte ferroviário. Carro chefe da empresa? Monitoramento através de internet das coisas (IOT) usado para auxiliar na tomada de decisão dos gestores das respectivas empresas. Eles utilizam Sensores de diversos tipos que podem monitorar vibração, temperatura, etc
 	
 Quais são os principais recursos e funcionalidades que você gostaria de ver no software?
 	-Dashboard para gestão interna de pessoas e recursos. Departamentos comercial, TI e operacional. Gestão de chamados (pendentes, pausados, realizados, prioridade), etc. Uma “planilha”. Número de soluções por dia, para gestão de desempenho operacional. Dados utilizados? Fictícios.
 	
-	-Problemas do ERP antigo da empresa ? Não são orientados a chamados. Dificuldade em guardar informações dos chamados, que acabam se perdendo com o tempo. Não trazem nenhuma informação relevante para os analistas. Funcionários se reúnem fisicamente ao invés de verem os dados no sistema, por ser ineficiente. 
+	-Problemas do ERP antigo da empresa? Não são orientados a chamados. Dificuldade em guardar informações dos chamados, que acabam se perdendo com o tempo. Não trazem nenhuma informação relevante para os analistas. Funcionários se reúnem fisicamente ao invés de verem os dados no sistema, por ser ineficiente. 
 	
 	-Sistema de autenticação ? Login, cadastro, senhas, etc. Apenas o administrador do sistema pode registrar novos usuários, definindo suas permissões.
 	
