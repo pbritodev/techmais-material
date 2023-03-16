@@ -6,19 +6,14 @@ Qual é o objetivo principal do software?
 Quais são os principais recursos e funcionalidades que você gostaria de ver no software?
 	-Dashboard para gestão interna de pessoas e recursos. Departamentos comercial, TI e operacional. Gestão de chamados (pendentes, pausados, realizados, prioridade), etc. Uma “planilha”. Número de soluções por dia, para gestão de desempenho operacional. Dados utilizados? Fictícios.
 	
-	-Problemas do ERP antigo da empresa? Não são orientados a chamados. Dificuldade em guardar informações dos chamados, que acabam se perdendo com o tempo. Não trazem nenhuma informação relevante para os analistas. Funcionários se reúnem fisicamente ao invés de verem os dados no sistema, por ser ineficiente. 
-	
+Problemas do ERP antigo da empresa:
+	-Não são orientados a chamados. Dificuldade em guardar informações dos chamados, que acabam se perdendo com o tempo. Não trazem nenhuma informação relevante 		para os analistas. Funcionários se reúnem fisicamente ao invés de verem os dados no sistema, por ser ineficiente. 
 	-Sistema de autenticação ? Login, cadastro, senhas, etc. Apenas o administrador do sistema pode registrar novos usuários, definindo suas permissões.
-	
-	-Sistema de SLA de acordo com as prioridades dos chamados (EX: caiu um servidor, chamado urgente). Chamado expirado deve ser duplicado no card de pendente e expirado, pq mesmo assim deve ter uma solução o quanto antes.
-	
+	-Sistema de SLA de acordo com as prioridades dos chamados (EX: caiu um servidor, chamado urgente). Chamado expirado deve ser duplicado no card de pendente e 		expirado, pq mesmo assim deve ter uma solução o quanto antes.
 	-Banco de dados local com dados fictícios para alimentar o sistema.
-	
 	-Responsividade. Tem que ser responsivo, adaptável e com possibilidade de acessar pelo mobile.
-	
 	-Documentação do projeto e acompanhamento de evolução, melhorias, etc.
-	
-	
+		
 Quem serão os principais usuários do software e quais são suas necessidades específicas?
 	-Equipe de tecnologia. Restrito. Login, registro e usuários. Permissões personalizadas. Cargo de administrador é o único com a permissão de registro de novos usuários.
 	
