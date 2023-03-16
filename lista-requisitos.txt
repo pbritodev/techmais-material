@@ -26,4 +26,13 @@ Como você gostaria de interagir com o software? É importante para você que o 
 Prazo e orçamento:
   -Prazo -> Ao longo do semestre
   -Orçamento -> X
+  
+  Quem?
+  Quando?
+  Como?
+  Onde?
+  PQ?
+  Quanto?
+  Onde?
+  O que?
 	
