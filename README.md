@@ -8,11 +8,14 @@
 	O projeto será desenvolvido no 1º semestre de 2023. 
     
 ## O que?
-	A empresa busca um ERP (Sistema de Gestão Integrado) Web para controle de chamadas. O ERP deve conter:
-- login e senha (somente o administrador pode criar novos usuários e gerencias as permissões de 0);
-- os chamados devem ser classificados por meio de uma divisão entre os setores e subdivisões por hierarquia de urgência;
+	A empresa busca um ERP (Sistema de Gestão Integrado) Web para controle de chamadas. O ERP deve:
+- ter login e senha (somente o administrador pode criar novos usuários e gerencias as permissões de 0);
+- controlar o acesso dos usuários;
+- classificar os chamados por meio de uma divisão entre os setores e subdivisões por hierarquia de urgência;
+- controlar diariamente a quantidade de chamados abertas e fechados/concluidos nos diferentes departamentos; 
+- classificar os chamados em "Pendentes", "Abertos" ou "Resolvidos";
+- informar os dados para o gerente de operação em tempo real ( criação de um relatorio com informaçoes diárias e dicas especializadas, tais como: número de soluções por dia, relatorios e análises detalhadas, eventos e log de eventos, para gestão de desempenho operacional; Gestão de métricas e desempenho. 
 - SLA (Acordo de Nível de Serviço) de acordo com as prioridades dos chamados (ex: queda de um servidor - chamado urgente). Caso, um chamado expire, o mesmo deve ser duplicado no card de pendente e expirado, pq mesmo assim deve ter uma solução o quanto antes
-- uma “planilha”/relatorio com informaçoes diárias, tais como: número de soluções por dia, para gestão de desempenho operacional; Gestão de métricas e desempenho. 
 
 	Os dados utilizados para o desenvolvimento da ERP serão fícticios. Além das características descritas anteriormente o sistema também precisa: 
 - ser Interativo, prático e eficiente;
