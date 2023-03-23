@@ -41,7 +41,7 @@
 ## Como?
 	A equipe de alunos responsável em desenvolver o projeto irá utilizar conceitos de Design Thinking e metodologias ágeis. Também serão utilizadas ferramentas de codificação de aplicação com uso de framework JavaScript (Angular, React, Vue.js ou similar), em ambiente de desenvolvimento integrado ou editor de texto com complementação de código (Visual Studio Code, Atom, Sublime ou similar), utilização de dados provenientes de API web, integração com mídias e imagens, implementação de design de interface adaptável a diferentes tamanhos de tela (proporcional, responsivo, media queries, mobile first).
 	
-## Lista de Requisitos em tópicos:
+## Lista de Requisitos Funcionais em tópicos:
 
 1- o sistema deve controlar o acesso do usuário 
 
