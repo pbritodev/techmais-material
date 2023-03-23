@@ -53,6 +53,8 @@
 
 5- o sistema ao invés de falar com ERP, ele tem que informar com o gerente de operação. 
 
-6- o sistema não terá integração com nenhum outro sistema da empresa
+6- o sistema não terá integração com nenhum outro sistema da empresa.
 
-7- O sistema deve ser capaz de aguentar alta carga (a definir específicamente) de chamados sem sair do ar. Deve ficar disponível 24/7, ser escalável e responsivo.
+7- O sistema deve ser capaz de aguentar alta carga de chamados sem sair do ar.
+
+8- Deve ficar disponível 24/7, ser escalável e responsivo.
