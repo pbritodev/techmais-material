@@ -55,4 +55,4 @@
 
 6- o sistema não terá integração com nenhum outro sistema da empresa
 
-7- O sistema deve ser capaz de aguentar alta carga de chamados sem sair do ar. Deve ficar disponível 24/7, ser escalável e responsivo.
+7- O sistema deve ser capaz de aguentar alta carga (a definir específicamente) de chamados sem sair do ar. Deve ficar disponível 24/7, ser escalável e responsivo.
