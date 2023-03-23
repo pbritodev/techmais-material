@@ -35,9 +35,6 @@
  ## Quanto?
  	O projeto não possui custo inicial.
     
- ## Onde?
-	O projeto se desenvolverá pelos alunos da instituição IBMEC - Barra, dentro da disciplina "Projeto Front-end". 
-    
 ## Como?
 	A equipe de alunos responsável em desenvolver o projeto irá utilizar conceitos de Design Thinking e metodologias ágeis. Também serão utilizadas ferramentas de codificação de aplicação com uso de framework JavaScript (Angular, React, Vue.js ou similar), em ambiente de desenvolvimento integrado ou editor de texto com complementação de código (Visual Studio Code, Atom, Sublime ou similar), utilização de dados provenientes de API web, integração com mídias e imagens, implementação de design de interface adaptável a diferentes tamanhos de tela (proporcional, responsivo, media queries, mobile first).
 	
@@ -53,8 +50,6 @@
 
 5- o sistema ao invés de falar com ERP, ele tem que informar com o gerente de operação. 
 
-6- o sistema não terá integração com nenhum outro sistema da empresa.
+6- o sistema não terá integração com nenhum outro sistema da empresa
 
-7- O sistema deve ser capaz de aguentar alta carga de chamados sem sair do ar.
-
-8- Deve ficar disponível 24/7, ser escalável e responsivo.
+7- O sistema deve ser capaz de aguentar alta carga (a definir específicamente) de chamados sem sair do ar. Deve ficar disponível 24/7, ser escalável e responsivo.
