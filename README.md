@@ -41,3 +41,16 @@
 ## Como?
 	A equipe de alunos responsável em desenvolver o projeto irá utilizar conceitos de Design Thinking e metodologias ágeis. Também serão utilizadas ferramentas de codificação de aplicação com uso de framework JavaScript (Angular, React, Vue.js ou similar), em ambiente de desenvolvimento integrado ou editor de texto com complementação de código (Visual Studio Code, Atom, Sublime ou similar), utilização de dados provenientes de API web, integração com mídias e imagens, implementação de design de interface adaptável a diferentes tamanhos de tela (proporcional, responsivo, media queries, mobile first).
 	
+## Lista de Requisitos em tópicos:
+
+1- o sistema deve controlar o acesso do usuário 
+
+2- o sistema precisa controlar a quantidade de chamados abertas para o departamento específico 
+
+3- o sistema precisa definir se os chamados estão pendentes, resolvidos ou abertos
+
+4- o sistema precisa saber quantos chamadas foram finalizados naquele dia
+
+5- o sistema ao invés de falar com ERP, ele tem que informar com o gerente de operação. 
+
+6- o sistema não terá integração com nenhum outro sistema da empresa
