@@ -40,18 +40,18 @@
 	
 ## Lista de Requisitos Funcionais em tópicos:
 
-1- o sistema deve controlar o acesso do usuário 
+1- o sistema deve controlar o acesso do usuário.
 
-2- o sistema precisa controlar a quantidade de chamados abertas para o departamento específico 
+2- o sistema precisa controlar a quantidade de chamados abertos para o departamento específico.
 
-3- o sistema precisa definir se os chamados estão pendentes, resolvidos ou abertos
+3- o sistema precisa definir se os chamados estão pendentes, resolvidos ou abertos.
 
-4- o sistema precisa saber quantos chamadas foram finalizados naquele dia
+4- o sistema precisa exibir quantos chamados foram finalizados naquele dia.
 
 5- o sistema ao invés de falar com ERP, ele tem que informar com o gerente de operação. 
 
-6- o sistema não terá integração com nenhum outro sistema da empresa
+6- o sistema não terá integração com nenhum outro sistema da empresa.
 
-7- O sistema deve ser capaz de aguentar alta carga (a definir específicamente) de chamados sem sair do ar.
+7- O sistema deve ser capaz de processar a alta carga (a definir específicamente) de chamados sem sair do ar.
 
 8- Deve ficar disponível 24/7, ser escalável e responsivo.
