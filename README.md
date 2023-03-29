@@ -57,7 +57,7 @@
 
 8- O sistema Deve ficar disponível 24h, ser escalável e responsivo.
 
-## Lista de requisitos não fuuncionais em tópicos:
+## Lista de requisitos não funcionais em tópicos:
 
 1- O software deve ser seguro e proteger as informações do usuário;
 
