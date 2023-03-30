@@ -51,11 +51,6 @@
 
 5- O sistema ao invés de falar com ERP, ele tem que informar o gerente de operações. 
 
-6- O sistema não terá integração com nenhum outro sistema da empresa.
-
-7- O sistema deve ser capaz de processar a alta carga (a definir específicamente) de chamados sem sair do ar.
-
-8- O sistema deve ficar disponível 24h, ser escalável e responsivo.
 
 ## Lista de requisitos não funcionais em tópicos:
 
