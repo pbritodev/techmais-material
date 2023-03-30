@@ -1,3 +1,11 @@
+# Perguntas da Fernanda para Miriam:
+-O que tem que ter no chamado?
+-Quem abre o chamado do cliente?
+-O cliente vai ter acesso ao sistema?
+-Quais são os níveis de SLA( emergencial,normal...)?
+-Quanto tempo o chamado(SLA) poderá ficar aberto?
+
+
 # Requisitos do projeto (5W2H):
 ## Quem?
  -Empresa Microméros que atua no setor industrial e utiliza IOT para a tomada de decisões de seus clientes. A empresa fornece a infraestrutura, a instalação e a manutenção dos sensores, e ainda fornece relatorios com os dados coletados, por meio de gráficos, telas de payback e insights. A Microméros atua no eixo industrial, atendendo fábricas, transportadoras, etc. 
