@@ -53,9 +53,6 @@
 
 6- O sistema não terá integração com nenhum outro sistema da empresa.
 
-7- O sistema deve ser capaz de processar a alta carga (a definir específicamente) de chamados sem sair do ar.
-
-8- O sistema deve ficar disponível 24h, ser escalável e responsivo.
 
 ## Lista de requisitos não funcionais em tópicos:
 
@@ -70,6 +67,10 @@
 5- O software deve ser confiável e ter alta disponibilidade;
 
 6- O software deve ser fácil de manter e atualizar.
+
+7- O sistema deve ser capaz de processar a alta carga (a definir específicamente) de chamados sem sair do ar.
+
+8- O sistema deve ficar disponível 24h, ser escalável e responsivo.
 
 
 
