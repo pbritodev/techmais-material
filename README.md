@@ -66,5 +66,9 @@
 
 6- O software deve ser fácil de manter e atualizar.
 
+7- O sistema não terá integração com nenhum outro sistema da empresa.
 
+8- O sistema deve ser capaz de processar a alta carga (a definir específicamente) de chamados sem sair do ar.
+
+9- O sistema deve ficar disponível 24h, ser escalável e responsivo.
 
