@@ -41,16 +41,19 @@
 	
 ## Lista de Requisitos Funcionais em tópicos:
 
-1- O sistema deve controlar o acesso do usuário.
+1- O sistema deve controlar o acesso do usuário através de login, senha e futuramente dupla autenticação. A única pessoa com a permissão de criar/gerenciar acessos é o administrador, que terá acesso à todas as logs do sistema.
 
-2- O sistema precisa controlar a quantidade de chamados abertos para o departamento específico.
+2- O sistema precisa mostrar, controlar e definir os chamados. Na hora de criar o chamado, o usuário deve definir a criticidade, o tipo de problema, descrevê-lo em uma caixa de texto e definir a tag do setor, que será mostrada na tela.
 
-3- O sistema precisa definir se os chamados estão pendentes, resolvidos ou abertos.
+3- O sistema classificará, através de tags no dashboard, os chamados em abertos, fechados e pendentes. Os pendentes são chamados que já expiraram o prazo mas ainda precisam de uma resolução. Terá tags para classificar de qual área cada chamado é.
 
-4- O sistema precisa exibir quantos chamados foram finalizados naquele dia. Métricas e desempenho.
+4- O sistema precisa exibir quantos chamados foram abertos/fechados no dia, para gestão de desempenho e métricas. Pode mostrar o tempo médio de resposta de cada área.
 
-5- O sistema ao invés de falar com ERP, ele tem que informar o gerente de operações. 
+5- O sistema deve gerar logs de abertura, fechamento e andamento de chamados, sempre notificando os gerentes operacionais de cada área (operações, comercial e TI). 
 
+6- Um chamado X será criado por um usuário do setor Y, o setor responsável será notificado com o tipo do problema, a criticidade e o prazo. Quando o chamado for aberto pelo responsável e a resolução começar, quem abriu o chamado será notificado.
+
+*OBS: Pode ser feita, depois da resolução do problema, uma pesquisa de satisfação para avaliar a eficiência da equipe de atendimento.
 
 ## Lista de requisitos não funcionais em tópicos:
 
