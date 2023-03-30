@@ -53,7 +53,7 @@
 
 6- Um chamado X será criado por um usuário do setor Y, o setor responsável será notificado com o tipo do problema, a criticidade e o prazo. Quando o chamado for aberto pelo responsável e a resolução começar, quem abriu o chamado será notificado.
 
-7- Sistema de busca personalizada por setor e criticidade. O usuário selecionará a pesquisa avançada e definirá os critérios. A pesquisa também pode ser feita por nome, buscando no sistema e exibindo o chamado de acordo com os critérios utilizados.
+7- Sistema de busca personalizada por setor e criticidade. O usuário selecionará a pesquisa avançada e definirá os critérios. A pesquisa também pode ser feita por nome, buscando no sistema e exibindo o chamado dentro dos parâmetros de busca.
 
 *OBS: Pode ser feita, depois da resolução do problema, uma pesquisa de satisfação para avaliar a eficiência da equipe de atendimento.
 
