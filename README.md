@@ -49,7 +49,7 @@
 
 4- O sistema precisa exibir quantos chamados foram finalizados naquele dia. Métricas e desempenho.
 
-5- O sistema ao invés de falar com ERP, ele tem que informar com o gerente de operação. 
+5- O sistema ao invés de falar com ERP, ele tem que informar o gerente de operações. 
 
 6- O sistema não terá integração com nenhum outro sistema da empresa.
 
