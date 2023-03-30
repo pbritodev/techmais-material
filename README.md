@@ -41,7 +41,7 @@
 	
 ## Lista de Requisitos Funcionais em tópicos:
 
-1- O sistema deve controlar o acesso do usuário através de login, senha e futuramente dupla autenticação. A única pessoa com a permissão de criar/gerenciar acessos é o administrador, que terá acesso à todas as logs do sistema.
+1- O sistema deve controlar o acesso do usuário através de login, senha e dupla autenticação (se precisar). A única pessoa com a permissão de criar/gerenciar acessos é o administrador, que terá acesso à todas as logs do sistema e ao sistema de criação e gerenciamento de usuários.
 
 2- O sistema precisa mostrar, controlar e definir os chamados. Na hora de criar o chamado, o usuário deve definir a criticidade, o tipo de problema, descrevê-lo em uma caixa de texto e definir a tag do setor, que será mostrada na tela.
 
