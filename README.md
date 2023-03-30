@@ -9,7 +9,7 @@
 	O projeto será desenvolvido no 1º semestre de 2023. 
     
 ## O que?
-	A empresa busca um sistema web para controle de chamadas. O sistema deve:
+	A empresa busca um sistema web para controle de chamados. O sistema deve:
 - ter login e senha (somente o administrador pode criar novos usuários e gerencias as permissões de 0);
 - controlar o acesso dos usuários;
 - classificar os chamados por meio de uma divisão entre os setores e subdivisões por hierarquia de urgência;
