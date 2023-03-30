@@ -64,7 +64,7 @@
 
 5- O software deve ser confiável e ter alta disponibilidade;
 
-6- O software deve ser fácil de manter e atualizar.
+6- O software deve ser fácil de manter
 
 
 
