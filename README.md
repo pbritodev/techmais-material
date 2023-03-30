@@ -55,7 +55,7 @@
 
 7- O sistema deve ser capaz de processar a alta carga (a definir específicamente) de chamados sem sair do ar.
 
-8- O sistema Deve ficar disponível 24h, ser escalável e responsivo.
+8- O sistema deve ficar disponível 24h, ser escalável e responsivo.
 
 ## Lista de requisitos não funcionais em tópicos:
 
