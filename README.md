@@ -72,26 +72,15 @@
   -O sistema deve exibir, no fechamento de um chamado, uma pesquisa de satisfação para o atendimento e para a plataforma; <br />
 
 ## Lista de requisitos não funcionais em tópicos:
-
-  - Implementar e definir o SLA (Acordo de Nível de Serviço) de cada cliente no sistema;
-<br />
-  - O sistema deve ser desenvolvido com a tecnologia ReactJS;
-<br />
-  - O sistema deve armazenar seus dados em um banco de dados MariaDB;
-<br />
-  - O sistema deve ser feito para WEB e de forma responsiva, ou seja, multi-device;
-<br />
-  - O sistema deve ser confiável e ter alta disponibilidade;
-<br />
-  - O sistema deve ter uma interface fácil de usar e intuitiva;
-<br />
-  - O sistema deve ser fácil de manter e atualizar;
-<br />
-  - O sistema deve ser seguro e proteger as informações do usuário;
-<br />
-  - O sistema deve ficar disponível 24h, ser escalável e responsivo;
-<br />
- - O sistema deve ser capaz de lidar com 7 usuários simultâneos, usando diferentes funcionalidades;
-<br />
+  - Implementar e definir o SLA (Acordo de Nível de Serviço) de cada cliente no sistema;<br />
+  - O sistema deve ser desenvolvido com a tecnologia ReactJS;<br />
+  - O sistema deve armazenar seus dados em um banco de dados MariaDB;<br />
+  - O sistema deve ser feito para WEB e de forma responsiva, ou seja, multi-device;<br />
+  - O sistema deve ser confiável e ter alta disponibilidade;<br />
+  - O sistema deve ter uma interface fácil de usar e intuitiva;<br />
+  - O sistema deve ser fácil de manter e atualizar;<br />
+  - O sistema deve ser seguro e proteger as informações do usuário;<br />
+  - O sistema deve ficar disponível 24h, ser escalável e responsivo;<br />
+ - O sistema deve ser capaz de lidar com 7 usuários simultâneos, usando diferentes funcionalidades;<br />
 
 
