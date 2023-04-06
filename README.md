@@ -47,18 +47,18 @@
   -O sistema deve permitir que o administrador defina a área do usuário (Comercial, TI e operações), suas permissões e a senha desejada; <br />
   -O sistema deve permitir a criação de um usuário-cliente, para que o mesmo possa acompanhar o andamento do seu chamado; <br />
 
-### 3 - Dashboard 
+### 2 - Dashboard 
   -O sistema deve exibir um dashboard para gerenciamento de chamados; <br />
   -O sistema deve permitir que o usuário cadastrado crie chamados, defina nome, prazo (SLA), área responsável e uma caixa de texto para a descrição do problema; <br />
   -O sistema deve possuir um dashboard para cada departamento e um geral, que exibe todos os chamados. Apenas o administrador pode visualizar o dashboard geral. Os usuários com permissão de área específica terão acesso apenas ao dashboard do seu setor; <br />
   -O sistema deve possuir uma área específica para o setor de TI, com chamados internos do setor; <br />
   -O sistema deve verificar as permissões do usuário e exibir apenas o chamado do seu setor; <br />
 
-### 4 - SLA
+### 3 - SLA
   -O sistema deve definir o SLA do cliente que solicitou a abertura do chamado. O prazo de atendimento será o acordado no SLA (Acordo de Nível de Serviço); <br />
   -O sistema deve permitir que os usuários definam o tipo do chamado, o prazo e exibir o usuário que abriu; <br />
 
-### 5 - Chamados 
+### 4 - Chamados 
   #### O sistema deve exibir chamados com:
       -Sua descrição;
       -SLA;
@@ -67,7 +67,7 @@
       -Usuário responsável pela abertura;
       -TAG de análise, em andamento ou resolvido.
 
-### 6 - Métricas e qualidade
+### 5 - Métricas e qualidade
   -O sistema deve exibir quantos chamados foram abertos e quantos foram finalizados no dia; <br />
   -O sistema deve exibir, no fechamento de um chamado, uma pesquisa de satisfação para o atendimento e para a plataforma; <br />
 
