@@ -55,46 +55,56 @@
 	
 ## Lista de Requisitos Funcionais em tópicos:
 
-### 1 - Login:
--1.1: O sistema deve permitir que o usuário faça login para acessar suas funcionalidades.
+### 1 - Login e cadastro
+-O sistema deve permitir que o usuário faça login para acessar suas funcionalidades;
+-O sistema deve permitir que o administrador cadastre novos usuários, defina a senha e o setor do usuário;
+-O sistema deve permitir que o administrador defina a área do usuário (Comercial, TI e operações), suas permissões e a senha desejaada;
+-O sistema deve permitir a criação de um usuário-cliente, para que o mesmo possa acompanhar o andamento do seu chamado;
 
-### 2 - Cadastro de usuário: 
--2.1: O sistema deve permitir que o administrador cadastre novos usuários, defina a senha e o setor do usuário.
+### 3 - Dashboard 
+-O sistema deve exibir um dashboard para gerenciamento de chamados;
+-O sistema deve permitir que o usuário cadastrado crie chamados, defina nome, prazo (SLA), área responsável e uma caixa de texto para a descrição do problema;
+-O sistema deve possuir um dashboard para cada departamento e um geral, que exibe todos os chamados. Apenas o administrador pode visualizar o dashboard geral. Os usuários com permissão de área específica terão acesso apenas ao dashboard do seu setor;
+-O sistema deve possuir uma área específica para o setor de TI, com chamados internos do setor;
+-O sistema deve verificar as permissões do usuário e exibir apenas o chamado do seu setor;
 
-### 3 - Dashboard: 
--3.1: O sistema deve exibir um dashboard responsável por exibir e separar por data, criticidade e exibir o nome do usuário que o abriu.
+### 4 - SLA
+-O sistema deve definir o SLA do cliente que solicitou a abertura do chamado. O prazo de atendimento será o acordado no SLA (Acordo de Nível de Serviço);
 
-### 4 - SLA: 
--4.1: O sistema deve definir o SLA do cliente que solicitou a abertura do chamado. O prazo de atendimento será o acordado no SLA (Acordo de Nível de Serviço) 
+-O sistema deve permitir que os usuários definam o tipo do chamado, o prazo e mostrar quem abriu;
 
--4.2: O sistema deve permitir que os usuários definam o tipo do chamado, o prazo e mostrar quem abriu.
+### 5 - Chamados 
+-O sistema deve exibir chamados com:
+	-Sua descrição;
+	-SLA;
+	-Categoria (área);;
+	-Data de abertura/fechamento;;
+	-Usuário responsável pela abertura;
+	-TAG de análise, em andamento e resolvido.
 
-### 5 - Chamados: 
--5.1: O sistema deve exibir chamados em aberto, em resolução e concluidos.
-
-### 6 - Métricas: 
--6.1: O sistema deve exibir quantos chamados foram abertos e quantos foram finalizados no dia.
-
-### 5- O sistema
-
+### 6 - Métricas e qualidade
+-O sistema deve exibir quantos chamados foram abertos e quantos foram finalizados no dia;
+-O sistema deve exibir, no fechamento de um chamado, uma pesquisa de satisfação para o atendimento e para a plataforma;
 
 ## Lista de requisitos não funcionais em tópicos:
 
-1- O software deve ser seguro e proteger as informações do usuário;
+1- Implementar e definir o SLA (Acordo de Nível de Serviço) de cada cliente no sistema;
 
-2- O software deve ter um tempo de resposta rápido;
+2- O sistema deve ser desenvolvido com a tecnologia ReactJS;
 
-3- O software deve ter uma interface fácil de usar e intuitiva;
+3- O sistema deve armazenar seus dados em um banco de dados MariaDB;
 
-4- O software deve ser escalável e capaz de lidar com grande volume de dados;
+4- O sistema deve ser feito para WEB e de forma responsiva, ou seja, multi-device;
 
-5- O software deve ser confiável e ter alta disponibilidade;
+5- O sistema deve ser confiável e ter alta disponibilidade;
 
-6- O software deve ser fácil de manter e atualizar.
+6- O sistema deve ter uma interface fácil de usar e intuitiva;
 
-7- O sistema não terá integração com nenhum outro sistema da empresa.
+7- O software deve ser fácil de manter e atualizar.
 
-8- O sistema deve ser capaz de processar a alta carga (a definir específicamente) de chamados sem sair do ar.
+8- O sistema deve ser seguro e proteger as informações do usuário;
 
 9- O sistema deve ficar disponível 24h, ser escalável e responsivo.
+
+-O sistema deve ser capaz de lidar com 7 usuários simultâneos, usando diferentes funcionalidades;
 
