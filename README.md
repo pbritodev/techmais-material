@@ -1,3 +1,17 @@
+##Perguntas para a entrevista - Projeto Front-End
+
+
+1. A primeira pergunta é em relação ao design, vocês darão o manual da marca ou o design fica a critério do grupo?
+2. Os usuários serão dos setores comercial, TI, operações e adminstrador do sistema, certo? Tem algum outro que precisa ser adicionado?
+3. Quais telas você tem em mente para o projeto? Login, seleção de usuário e apenas um dashboard ou mais de um?
+4. Quais são os recursos e funcionalidades que você considera essencial para o sistema?
+5. Em relação a segurança, é interessante fazer um sistema de dupla autenticação ou apenas usuário e senha é suficiente?
+6. Como os tickets do dashboard serão divididos? Por categoria, área, etc?
+7. Alguma área tem atendimento prioritário?
+8. Quais são os níveis dos chamados e o SLA de cada área?
+9. Qual é o tamanho da sua equipe e quantos usuários precisariam ter acesso ao software?
+10. Quais são os seus planos de implementação para o software? Você tem uma data específica em mente para o lançamento?
+
 # Requisitos do projeto (5W2H):
 ## Quem?
  -Empresa Microméros que atua no setor industrial e utiliza IOT para a tomada de decisões de seus clientes. A empresa fornece a infraestrutura, a instalação e a manutenção dos sensores, e ainda fornece relatorios com os dados coletados, por meio de gráficos, telas de payback e insights. A Microméros atua no eixo industrial, atendendo fábricas, transportadoras, etc. 
@@ -34,28 +48,35 @@
 - Os funcionários precisam se reunir presencialmente para a analise dos dados, pois os dados que aparecem no sistema são de dificil interpretação  
 
  ## Quanto?
- 	O projeto não possui custo inicial.
+ 	O projeto não possui custo inicial monetário, apenas tempo.
     
 ## Como?
 	O sistema será construído com base em conceitos de Design Thinking e metodologias ágeis. Também serão utilizadas ferramentas de codificação de aplicação com uso de framework JavaScript (Angular, React, Vue.js ou similar), em ambiente de desenvolvimento integrado ou editor de texto com complementação de código (Visual Studio Code, Atom, Sublime ou similar), utilização de dados provenientes de API web, integração com mídias e imagens, implementação de design de interface adaptável a diferentes tamanhos de tela (proporcional, responsivo, media queries, mobile first).
 	
 ## Lista de Requisitos Funcionais em tópicos:
 
-1- O sistema deve controlar o acesso do usuário através de login, senha e dupla autenticação (se precisar). A única pessoa com a permissão de criar/gerenciar acessos é o administrador, que terá acesso à todas as logs do sistema e ao sistema de criação e gerenciamento de usuários.
+1- Login:
+	1.1 O sistema deve permitir que o usuário faça login para acessar suas funcionalidades.
 
-2- O sistema precisa mostrar, controlar e definir os chamados. Na hora de criar o chamado, o usuário deve definir a criticidade, o tipo de problema, descrevê-lo em uma caixa de texto e definir a tag do setor, que será mostrada na tela.
+2- Cadastro de usuário: 
+	2.1 O sistema deve permitir que o administrador cadastre novos usuários, defina a senha e o setor do usuário.
 
-3- O sistema classificará, através de tags no dashboard, os chamados em abertos, fechados e pendentes. Os pendentes são chamados que já expiraram o prazo mas ainda precisam de uma resolução. Terá tags para classificar de qual área cada chamado é.
+3- Dashboard: 
+	3.1 O sistema deve exibir um dashboard responsável por exibir e separar por data, criticidade e exibir o nome do
+	usuário que o abriu.
 
-4- O sistema precisa exibir quantos chamados foram abertos/fechados no dia, para gestão de desempenho e métricas. Pode mostrar o tempo médio de resposta de cada área.
+4- SLA: 
+	4.1 O sistema deve definir o SLA do cliente que solicitou a abertura do chamado. O prazo de atendimento será o 		acordado no SLA (Acordo de Nível de Serviço)
+	4.2 O sistema deve permitir que os usuários definam o tipo do chamado, o prazo e mostrar quem abriu.
 
-5- O sistema deve gerar logs de abertura, fechamento e andamento de chamados, sempre notificando os gerentes operacionais de cada área (operações, comercial e TI). 
+5- Chamados: 
+	5.1 O sistema deve exibir chamados em aberto, em resolução e concluidos.
 
-6- Um chamado X será criado por um usuário do setor Y, o setor responsável será notificado com o tipo do problema, a criticidade e o prazo. Quando o chamado for aberto pelo responsável e a resolução começar, quem abriu o chamado será notificado.
+6- Métricas: 
+	6.1 O sistema deve exibir quantos chamados foram abertos e quantos foram finalizados no dia.
 
-7- Sistema de busca personalizada por setor e criticidade. O usuário selecionará a pesquisa avançada e definirá os critérios. A pesquisa também pode ser feita por nome, buscando no sistema e exibindo o chamado dentro dos parâmetros de busca.
+5- O sistema
 
-*OBS: Pode ser feita, depois da resolução do problema, uma pesquisa de satisfação para avaliar a eficiência da equipe de atendimento.
 
 ## Lista de requisitos não funcionais em tópicos:
 
