@@ -1,3 +1,11 @@
+# Perguntas Jorge Felippe para Miriam
+1 - Quem você quer que abra os chamados? Vai ter um setor específico? Seria a equipe de TI? Ou os gerentes de cada setor?
+
+2 - Quando o chamado for aberto, o cliente vai receber alguma notificação de acompanhamento? Ou ele tem que entrar no app par verificar se o chamado já foi concluido?
+
+3 - O sistema irá funcionar 24hrs? Ou essa função dependeria do tipo de cliente?
+
+
 # Requisitos do projeto (5W2H):
 ## Quem?
  -Empresa Microméros que atua no setor industrial e utiliza IOT para a tomada de decisões de seus clientes. A empresa fornece a infraestrutura, a instalação e a manutenção dos sensores, e ainda fornece relatorios com os dados coletados, por meio de gráficos, telas de payback e insights. A Microméros atua no eixo industrial, atendendo fábricas, transportadoras, etc. 
