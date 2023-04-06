@@ -74,12 +74,12 @@
 
 ### 5 - Chamados 
 -O sistema deve exibir chamados com: <br />
-	#-Sua descrição; <br />
-	#-SLA; <br />
-	#-Categoria (área); <br />
-	#-Data de abertura/fechamento; <br /> 
-	#-Usuário responsável pela abertura; <br />
-	#-TAG de análise, em andamento e resolvido. <br />
+	>-Sua descrição; <br />
+	>-SLA; <br />
+	>-Categoria (área); <br />
+	>-Data de abertura/fechamento; <br /> 
+	>-Usuário responsável pela abertura; <br />
+	>-TAG de análise, em andamento e resolvido. <br />
 
 ### 6 - Métricas e qualidade
 -O sistema deve exibir quantos chamados foram abertos e quantos foram finalizados no dia; <br />
