@@ -58,7 +58,7 @@
 ### 1 - Login e cadastro
 -O sistema deve permitir que o usuário faça login para acessar suas funcionalidades; <br />
 -O sistema deve permitir que o administrador cadastre novos usuários, defina a senha e o setor do usuário; <br />
--O sistema deve permitir que o administrador defina a área do usuário (Comercial, TI e operações), suas permissões e a senha desejaada; <br />
+-O sistema deve permitir que o administrador defina a área do usuário (Comercial, TI e operações), suas permissões e a senha desejada; <br />
 -O sistema deve permitir a criação de um usuário-cliente, para que o mesmo possa acompanhar o andamento do seu chamado; <br />
 
 ### 3 - Dashboard 
@@ -70,7 +70,7 @@
 
 ### 4 - SLA
 -O sistema deve definir o SLA do cliente que solicitou a abertura do chamado. O prazo de atendimento será o acordado no SLA (Acordo de Nível de Serviço); <br />
--O sistema deve permitir que os usuários definam o tipo do chamado, o prazo e exibir o usuário que abriu;
+-O sistema deve permitir que os usuários definam o tipo do chamado, o prazo e exibir o usuário que abriu; <br />
 
 ### 5 - Chamados 
 -O sistema deve exibir chamados com:
@@ -82,8 +82,8 @@
 	-TAG de análise, em andamento e resolvido. <br />
 
 ### 6 - Métricas e qualidade
--O sistema deve exibir quantos chamados foram abertos e quantos foram finalizados no dia;
--O sistema deve exibir, no fechamento de um chamado, uma pesquisa de satisfação para o atendimento e para a plataforma;
+-O sistema deve exibir quantos chamados foram abertos e quantos foram finalizados no dia; <br />
+-O sistema deve exibir, no fechamento de um chamado, uma pesquisa de satisfação para o atendimento e para a plataforma; <br />
 
 ## Lista de requisitos não funcionais em tópicos:
 
@@ -106,4 +106,4 @@
 9- O sistema deve ficar disponível 24h, ser escalável e responsivo.
 <br />
 -O sistema deve ser capaz de lidar com 7 usuários simultâneos, usando diferentes funcionalidades;
-
+<br />
