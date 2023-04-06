@@ -65,7 +65,7 @@
       -Categoria (área);
       -Data de abertura/fechamento;
       -Usuário responsável pela abertura;
-      -TAG de análise, em andamento e resolvido.
+      -TAG de análise, em andamento ou resolvido.
 
 ### 6 - Métricas e qualidade
   -O sistema deve exibir quantos chamados foram abertos e quantos foram finalizados no dia; <br />
