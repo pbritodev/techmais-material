@@ -1,6 +1,6 @@
-##Perguntas para a entrevista - Projeto Front-End
+## Perguntas para a entrevista - Projeto Front-End
 
-#Pedro
+# Pedro
 1. A primeira pergunta é em relação ao design, vocês darão o manual da marca ou o design fica a critério do grupo?
 2. Os usuários serão dos setores comercial, TI, operações e adminstrador do sistema, certo? Tem algum outro que precisa ser adicionado?
 3. Quais telas você tem em mente para o projeto? Login, seleção de usuário e apenas um dashboard ou mais de um?
@@ -12,9 +12,15 @@
 9. Qual é o tamanho da sua equipe e quantos usuários precisariam ter acesso ao software?
 10. Quais são os seus planos de implementação para o software? Você tem uma data específica em mente para o lançamento?
 
-#Fernanda
+# Fernanda
 1. O que tem que ter no chamado? 
 2. Quem abre o chamado do cliente? 
 3. O cliente vai ter acesso ao sistema? 
 4. Quais são os níveis de SLA( emergencial,normal...)? 
 5. Quanto tempo o chamado(SLA) poderá ficar aberto?
+
+# Giovana
+1. Existe um limite de tempo para cada tipo de chamado?
+2. Se as empresas podem pagar a mais para terem algum tipo de urgencia.
+3. Como o cliente abre o chamado? Existe algum tipo de helpdesk?
+4. O que deve acontecer se tiver algum chamado fora dos dias uteis.
