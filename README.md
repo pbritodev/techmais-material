@@ -56,24 +56,24 @@
 ## Lista de Requisitos Funcionais em tópicos:
 
 1- Login:
-# 1.1 O sistema deve permitir que o usuário faça login para acessar suas funcionalidades.
+- 1.1 O sistema deve permitir que o usuário faça login para acessar suas funcionalidades.
 
 2- Cadastro de usuário: 
-# 2.1 O sistema deve permitir que o administrador cadastre novos usuários, defina a senha e o setor do usuário.
+- 2.1 O sistema deve permitir que o administrador cadastre novos usuários, defina a senha e o setor do usuário.
 
 3- Dashboard: 
-3.1 O sistema deve exibir um dashboard responsável por exibir e separar por data, criticidade e exibir o nome do usuário que o abriu.
+- 3.1 O sistema deve exibir um dashboard responsável por exibir e separar por data, criticidade e exibir o nome do usuário que o abriu.
 
 4- SLA: 
-4.1 O sistema deve definir o SLA do cliente que solicitou a abertura do chamado. O prazo de atendimento será o acordado no SLA (Acordo de Nível de Serviço) 
+- 4.1 O sistema deve definir o SLA do cliente que solicitou a abertura do chamado. O prazo de atendimento será o acordado no SLA (Acordo de Nível de Serviço) 
 
-4.2 O sistema deve permitir que os usuários definam o tipo do chamado, o prazo e mostrar quem abriu.
+- 4.2 O sistema deve permitir que os usuários definam o tipo do chamado, o prazo e mostrar quem abriu.
 
 5- Chamados: 
-# 5.1 O sistema deve exibir chamados em aberto, em resolução e concluidos.
+- 5.1 O sistema deve exibir chamados em aberto, em resolução e concluidos.
 
 6- Métricas: 
-# 6.1 O sistema deve exibir quantos chamados foram abertos e quantos foram finalizados no dia.
+ 6.1 O sistema deve exibir quantos chamados foram abertos e quantos foram finalizados no dia.
 
 5- O sistema
 
