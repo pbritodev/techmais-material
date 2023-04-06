@@ -59,13 +59,13 @@
   -O sistema deve permitir que os usuários definam o tipo do chamado, o prazo e exibir o usuário que abriu; <br />
 
 ### 5 - Chamados 
-  #### O sistema deve exibir chamados com: <br />
-      -Sua descrição; <br />
-      -SLA; <br />
-      -Categoria (área); <br />
-      -Data de abertura/fechamento; <br /> 
-      -Usuário responsável pela abertura; <br />
-      -TAG de análise, em andamento e resolvido. <br />
+  #### O sistema deve exibir chamados com:
+      -Sua descrição;
+      -SLA;
+      -Categoria (área);
+      -Data de abertura/fechamento;
+      -Usuário responsável pela abertura;
+      -TAG de análise, em andamento e resolvido.
 
 ### 6 - Métricas e qualidade
   -O sistema deve exibir quantos chamados foram abertos e quantos foram finalizados no dia; <br />
@@ -85,11 +85,11 @@
 <br />
   - O sistema deve ter uma interface fácil de usar e intuitiva;
 <br />
-  - O sistema deve ser fácil de manter e atualizar.
+  - O sistema deve ser fácil de manter e atualizar;
 <br />
   - O sistema deve ser seguro e proteger as informações do usuário;
 <br />
-  - O sistema deve ficar disponível 24h, ser escalável e responsivo.
+  - O sistema deve ficar disponível 24h, ser escalável e responsivo;
 <br />
  - O sistema deve ser capaz de lidar com 7 usuários simultâneos, usando diferentes funcionalidades;
 <br />
