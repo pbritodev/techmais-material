@@ -87,23 +87,23 @@
 
 ## Lista de requisitos não funcionais em tópicos:
 
-  1- Implementar e definir o SLA (Acordo de Nível de Serviço) de cada cliente no sistema;
+  - Implementar e definir o SLA (Acordo de Nível de Serviço) de cada cliente no sistema;
 <br />
-  2- O sistema deve ser desenvolvido com a tecnologia ReactJS;
+  - O sistema deve ser desenvolvido com a tecnologia ReactJS;
 <br />
-  3- O sistema deve armazenar seus dados em um banco de dados MariaDB;
+  - O sistema deve armazenar seus dados em um banco de dados MariaDB;
 <br />
-  4- O sistema deve ser feito para WEB e de forma responsiva, ou seja, multi-device;
+  - O sistema deve ser feito para WEB e de forma responsiva, ou seja, multi-device;
 <br />
-  5- O sistema deve ser confiável e ter alta disponibilidade;
+  - O sistema deve ser confiável e ter alta disponibilidade;
 <br />
-  6- O sistema deve ter uma interface fácil de usar e intuitiva;
+  - O sistema deve ter uma interface fácil de usar e intuitiva;
 <br />
-  7- O sistema deve ser fácil de manter e atualizar.
+  - O sistema deve ser fácil de manter e atualizar.
 <br />
-  8- O sistema deve ser seguro e proteger as informações do usuário;
+  - O sistema deve ser seguro e proteger as informações do usuário;
 <br />
-  9- O sistema deve ficar disponível 24h, ser escalável e responsivo.
+  - O sistema deve ficar disponível 24h, ser escalável e responsivo.
 <br />
- 10- O sistema deve ser capaz de lidar com 7 usuários simultâneos, usando diferentes funcionalidades;
+ - O sistema deve ser capaz de lidar com 7 usuários simultâneos, usando diferentes funcionalidades;
 <br />
