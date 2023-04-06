@@ -19,7 +19,7 @@
 4. Quais são os níveis de SLA( emergencial,normal...)? 
 5. Quanto tempo o chamado(SLA) poderá ficar aberto?
 
-# Giovana
+# Giovanna
 1. Existe um limite de tempo para cada tipo de chamado?
 2. Se as empresas podem pagar a mais para terem algum tipo de urgencia.
 3. Como o cliente abre o chamado? Existe algum tipo de helpdesk?
