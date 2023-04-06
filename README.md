@@ -73,7 +73,7 @@
 -O sistema deve permitir que os usuários definam o tipo do chamado, o prazo e exibir o usuário que abriu; <br />
 
 ### 5 - Chamados 
--O sistema deve exibir chamados com:
+-O sistema deve exibir chamados com: <br />
 	-Sua descrição; <br />
 	-SLA; <br />
 	-Categoria (área); <br />
