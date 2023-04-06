@@ -24,3 +24,8 @@
 2. Se as empresas podem pagar a mais para terem algum tipo de urgencia.
 3. Como o cliente abre o chamado? Existe algum tipo de helpdesk?
 4. O que deve acontecer se tiver algum chamado fora dos dias uteis.
+
+# Felippe
+1. Quem você quer que abra os chamados? Vai ter um setor específico? Seria a equipe de TI? Ou os gerentes de cada setor?
+2. Quando o chamado for aberto, o cliente vai receber alguma notificação de acompanhamento? Ou ele tem que entrar no app par verificar se o chamado já foi concluido?
+3. O sistema irá funcionar 24hrs? Ou essa função dependeria do tipo de cliente?
