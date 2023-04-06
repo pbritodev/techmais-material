@@ -105,5 +105,5 @@
 <br />
   9- O sistema deve ficar disponível 24h, ser escalável e responsivo.
 <br />
-  10- O sistema deve ser capaz de lidar com 7 usuários simultâneos, usando diferentes funcionalidades;
+ 10- O sistema deve ser capaz de lidar com 7 usuários simultâneos, usando diferentes funcionalidades;
 <br />
