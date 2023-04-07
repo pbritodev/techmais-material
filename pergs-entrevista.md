@@ -45,7 +45,7 @@ aberto do sistema
 - quando criar um sla definir o tempo de resposta de acordo com os critérios... 
 
 # Exemplo de chamado:
-Departamente: Equipe de TI <br/>
+Departamente: TI <br/>
 Categoria: Baixo <br/>
 Tempo estimado: 24hrs <br/>
 <br/>
