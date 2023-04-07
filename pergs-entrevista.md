@@ -1,66 +1,54 @@
-# Dados no dashboard do sistema:
-- dados financeiro
-- receita de lucro
-- usuarios
-- desempenho do marketing
-- problema tecnico
-- atualizacoes importantes
+# Dados no dashboard do administrador
+- Finaneiro (receita/lucro)
+- Usuários cadastrados
+- Desempenho do marketing
+- Problemas técnicos
+- Atualizações e informações importantes (notificação)
 
-# info dos chamados
-titulo
-resumo/comentario/descrição do usuario do problema
-sistema pegar login para a pessoa/equope q receber o chamado
-status (fazer,expirado, pausado aberto
-ordem de prioridade 
-categoria macro (qual o deptp o chamado foi aberto)
-quem é o responsável 
+# Informações dos chamados
+- Título
+- Resumo/descrição do problema
+- Funcionário responsável pelo chamado
+- Status (Aberto, em andamento, pausado, fechado e expirado)
+- Ordem de prioridade/criticade
+- Categoria (setor)
 
-# quem vai abrir os chamados
-qualquer pessoa que tenha interação com a empresa, as pessoas vao se comnu via chamado. 
+# Quem abre os chamados
+- Pessoas com relacionamento com a empresa
 
-# micromeroes terao conta no erp
-clientes nsao terao contas no app
-clientes não abrem chamados/mas podem visualizar
+# Pessoas com acesso ao sistema
+- Funcionários de diferentes setores e o administrador do sistema
+- Departamentos: Comercial, Operações, TI, RH e administivo
+- OBS: Clientes não terão acesso
 
-# departamentos que 
-comercial, operação, ti, RH (administrativo), 
+# Informações dos usuários
+- Nome, email e senha 
+- Relacionamento entre o usuário e a Holy
 
-# tabela de usuario 
-nome/email/senha/ 
-relacionamento entre usuario e "holy"
-colunas necessarias para 
+# Cadastro
+- Somente o administrador pode cadastrar usuários, definindo nome, email e senha
 
-# cadastro
-somente o adm pode cadastrar
-usuario com nivel max de cadastro
+# Gestor de filas, ordem de chamados e prioridade
+- A depender da categoria do chamado. Varia de acordo com o SLA chamado de TI, entidade chamada "itui" chamados tem que ser respondidos em 30min /48 horas
+- SLAs serão fictícios, mas alinhados com a realidade
 
-#disponibilidade 24hr 
+# Ordem de prioridade
+- Baixo, médio, alto e crítico
 
-# gestor de filas / ordem /hierarquia de prioridade
-depende da categoria do chamado. Varia de acordo com o SLA chamado de ti, entidade chamada "itui" chamados tem que ser respondidos em 30min /48 horas.
-fazer sla razoaveis (nós vamos criar os sla)
+# Funcionamento
+- O dashboard exibirá informações de acordo com o seu setor e as suas permissões no sistema
 
-# ordem de prioridade
-depende da categoria do usuario / critico,medio, baixo, alto
-
-# Usuarios tem papeis diferentes/o adm vai cadastrar esses papeis/esses papeis terão visões diferente? 
-O Dashboard resumo das info do sistema, o dashboard vai funfa de acordo com a sua função. 
-
-# procurar os erp na internet para ajudar no que precisa aparecer para o usuario/adm
-
-# model view model (sistema utilizado na ibmec)
-
-# não se preocupar com o cliente externo / não vai ter client externo / agora o programa vai ser para funcionar internamente
+# Observações
+- não se preocupar com o cliente externo / não vai ter client externo / agora o programa vai ser para funcionar internamente
 aberto do sistema 
+- filosofia do mobile first
+- quando criar um sla definir o tempo de resposta de acordo com os critérios... 
 
-#filosofia do mobile first
-
-# quando criar um sla definir o tempo de resposta de acordo com os critérios... 
-EXEMPLO
+# Exemplo de chamado:
 Departamente: Equipe de TI
 Categoria: Baixo
 Tempo estimado: 24hrs
-
+<br/>
 Departamento: TI
 Categoria: Crítico
 Tempo estimado: 2 horas
