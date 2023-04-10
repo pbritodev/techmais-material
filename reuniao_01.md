@@ -18,4 +18,6 @@
     - Seguir os criterios: DEPARTAMENTO/TIPO DE PROBLEMA (Dropbown)/PRIORIDADE(Baixo, medio,alto,crítico)
     - A partir desses dados dizer o tempo estimado de resposta.
 - Metricas e qualidade
-    - Como faremos a avaliação dess
+    - Como faremos as métricas?
+- Casos de Uso 
+- PowerPoint
