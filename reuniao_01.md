@@ -21,3 +21,4 @@
     - Como faremos as métricas?
 - Casos de Uso 
 - PowerPoint
+- Criar uma logo
