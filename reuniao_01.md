@@ -5,12 +5,12 @@
     - Criar pagina de login e senha
     - Criar página principal do software
     - Criar página mostrando como abrir o chamado
-        - **Título;**
-        - **Resumo/descrição do problema;**
-        - **Funcionário responsável pelo chamado;**
-        - **Status (Aberto, em andamento, pausado, fechado e expirado);**
-        - **Ordem de prioridade/criticade;**
-        - **Categoria (setor);**
+        - Título;
+        - Resumo/descrição do problema;
+        - Funcionário responsável pelo chamado;
+        - Status (Aberto, em andamento, pausado, fechado e expirado);
+        - Ordem de prioridade/criticade;
+        - Categoria (setor);
     - Criar o dashboard / layout do dashboard / o que vai aparecer no dash
     - Mostrar as diferentes visões (do ADM e do Usuário) podemos ir mostrando tudo ao mesmo tempo… e na apresentação dizer o que mudou/mudará
 - Criar a SLA ficticios alinhados com a realidade
