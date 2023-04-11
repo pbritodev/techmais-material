@@ -22,3 +22,4 @@
 - Casos de Uso 
 - PowerPoint
 - Criar uma logo
+- Traduzir o "Use Case Template"
