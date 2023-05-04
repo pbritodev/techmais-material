@@ -84,7 +84,7 @@
   - O sistema deve ser capaz de lidar com 7 usuários simultâneos, usando diferentes funcionalidades;<br />
 
 ## Jornada do grupo
- -No primeiro dia recebemos a proposta do projeto, e após a primeira entrevista, definimos os 5W2H (o que, quem, quando, etc) e os requisitos que seriam necessários. Separamos os requisitos em funcionais e não funcionais, e foi preciso mais uma reunião para entender ao certo o que teríamos de fazer. Também buscamos saber mais as especificações acerca dos chamados e as permissões de cada cliente/administrador dentro do sistema.
+No primeiro dia recebemos a proposta do projeto, e após a primeira entrevista, definimos os 5W2H (o que, quem, quando, etc) e os requisitos que seriam necessários. Separamos os requisitos em funcionais e não funcionais, e foi preciso mais uma reunião para entender ao certo o que teríamos de fazer. Também buscamos saber mais as especificações acerca dos chamados e as permissões de cada cliente/administrador dentro do sistema.
 Começamos então a esboçar o projeto, ver estratégias funcionais, designs apelativos e estudar mais sobre projetos similares.
 
 
