@@ -1,4 +1,4 @@
-| Sistema de Gerenciamento de Biblioteca |
+|           Page Components             |
 |---------------------------------------|
 |                Login                  |
 |---------------------------------------|
