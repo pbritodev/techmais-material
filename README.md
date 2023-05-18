@@ -1,4 +1,6 @@
 # Requisitos do projeto (5W2H):
+## Link para o repositório do código:
+https://github.com/pbritodev/techmais-codigo
 ## Quem?
  -Empresa Microméros que atua no setor industrial e utiliza IOT para a tomada de decisões de seus clientes. A empresa fornece a infraestrutura, a instalação e a manutenção dos sensores, e ainda fornece relatorios com os dados coletados, por meio de gráficos, telas de payback e insights. A Microméros atua no eixo industrial, atendendo fábricas, transportadoras, etc. 
 
