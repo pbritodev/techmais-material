@@ -9,14 +9,8 @@
 |**Atores:**|<p>Admnistradores e clientes.</p><p></p><p></p>|
 |**Pré condição:**|<p>O Sistema será aberto na página de login.</p><p></p><p></p>|
 |**Pós condição:**|<p>O Sistema abrirá na página do usuário.</p><p></p>|
-|**Fluxo principal:**|<p>O Usuário preenche login e senha.
-Usuário clica em entrar.
-Usuário é redirecionado para a página do usuário.
-</p><p></p><p></p>|
-|**Fluxo alternativo:**|<p>No caso do usuário ter esquecido a senha:
-Usuário clica em ‘’Esqueci minha senha’’
-Usuário é redirecionado para uma tela de redefinição de senha.
-</p><p></p><p></p>|
+|**Fluxo principal:**|<p>O Usuário preenche login e senha. Usuário clica em entrar. Usuário é redirecionado para a página do usuário.</p><p></p><p></p>|
+|**Fluxo alternativo:**|<p>No caso do usuário ter esquecido a senha: Usuário clica em ‘’Esqueci minha senha’’. Usuário é redirecionado para uma tela de redefinição de senha.</p><p></p><p></p>|
 
 
 
@@ -28,9 +22,7 @@ Usuário é redirecionado para uma tela de redefinição de senha.
 |**Atores:**|<p>Admnistradores.</p><p></p><p></p>|
 |**Pré condição:**|<p>O Sistema estará aberto no perfil do administrador. </p><p></p>|
 |**Pós condição:**|<p>O usuário fica registrado. </p><p></p>|
-|**Fluxo principal:**|<p>Administrador clica na opção de ‘’Cadastrar novo usuário’’ e é redirecionado para a tela de cadastro.
-  Administrador preenche o nome de usuário, senha e setor. 
-  Administrador clicla no botão ‘’Cadastrar Usuário’’, e aparecerá uma mensagem ‘’Usuário cadastrado com sucesso’’.</p><p></p><p></p>|
+|**Fluxo principal:**|<p>Administrador clica na opção de ‘’Cadastrar novo usuário’’ e é redirecionado para a tela de cadastro. Administrador preenche o nome de usuário, senha e setor. Administrador clicla no botão ‘’Cadastrar Usuário’’, e aparecerá uma mensagem ‘’Usuário cadastrado com sucesso’’.</p><p></p><p></p>|
 
 
 
@@ -71,7 +63,4 @@ Usuário é redirecionado para uma tela de redefinição de senha.
 |**Atores:**|<p>Admnistradores.</p><p></p><p></p>|
 |**Pré condição:**|<p>O Sistema estará aberto no perfil do administrador. </p><p></p>|
 |**Pós condição:**|<p>O chamado fica registrado.</p><p></p>|
-|**Fluxo principal:**|<p>Administrador clica na opção de ‘Abrir novo chamado’’, que abrirá na tela de cadastro de chamados.
-  Administrador preenche o nome, o prazo, área responsável e descrição.
-  Administrador clicla no botão ‘Criar chamado’’, e aparecerá uma mensagem ‘Chamado criado com sucesso’’.</p><p></p><p></p>|
-
+|**Fluxo principal:**|<p>Administrador clica na opção de ‘Abrir novo chamado’’, que abrirá na tela de cadastro de chamados. Administrador preenche o nome, o prazo, área responsável e descrição. Administrador clicla no botão ‘Criar chamado’’, e aparecerá uma mensagem ‘Chamado criado com sucesso’’.</p><p></p><p></p>|
